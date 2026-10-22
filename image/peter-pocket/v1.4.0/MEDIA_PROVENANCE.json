@@ -1,0 +1,164 @@
+{
+  "retrieved": "2026-10-22",
+  "sources": [
+    {
+      "id": "spider-man",
+      "file": "assets/spider-man-avatar.jpg",
+      "source": "https://www.playstation.com/en-us/games/marvels-spider-man-remastered/",
+      "credit": "Sony Interactive Entertainment / Insomniac / Marvel",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "2f27caea619fa517ff469e25e54bf9a4ff7d2f223c99eab65375f2881fc3b54d"
+    },
+    {
+      "id": "peter",
+      "file": "assets/peter.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tom_Holland_by_Gage_Skidmore.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 2.0",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "4f3b2cd2279b9c05ff561cd82b41dfae8cbaaf2690696be21372109f38870240"
+    },
+    {
+      "id": "ned",
+      "file": "assets/ned.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacob_Batalon_by_Gage_Skidmore.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 2.0",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "57384ba0851046c8356dc70c5b8625b2196ae1ad2628e8ec3ecb3695a2fbb7fa"
+    },
+    {
+      "id": "mj",
+      "file": "assets/mj.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Zendaya_by_Gage_Skidmore.jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 2.0",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "aac2c80fe15e43c4cac84db778daea4a75cb95d46da727bc7cd88d15801b4256"
+    },
+    {
+      "id": "tony",
+      "file": "assets/tony-portrait.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg",
+      "credit": "Gage Skidmore",
+      "license": "CC BY-SA 2.0",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "d26382b34a473a983c50e5c78c29653c249e7fdc6c5fa1fcfa049a4322ea59e1"
+    },
+    {
+      "id": "new-york-cover",
+      "file": "assets/new-york.jpg",
+      "source": "https://www.playstation.com/en-us/games/marvels-spider-man-remastered/",
+      "credit": "Sony Interactive Entertainment / Insomniac / Marvel",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "b6aae9ebcdd48b9b9c0512422cced147cd4835717222e09a658bdd8d149de824"
+    },
+    {
+      "id": "iron-man-cover",
+      "file": "assets/stark-workbench.jpg",
+      "source": "https://movies.disney.com/avengers-endgame",
+      "credit": "Marvel Studios",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "2a2a9bfb54ea7be8aef71f971e2be95c2133228a080f83470d02cfa6de9d4f6a"
+    },
+    {
+      "id": "cat",
+      "file": "assets/cat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cat03.jpg",
+      "credit": "Fir0002/Flagstaffotos",
+      "license": "CC BY-NC 3.0",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "3022fc52be10eee800c584ba063438727fd9c4a1ffcfceba3d883ce49dbce464"
+    },
+    {
+      "id": "dog",
+      "file": "assets/dog.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:YellowLabradorLooking_new.jpg",
+      "credit": "Elf, Djmirko, FT2",
+      "license": "CC BY-SA 3.0",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "83248f6c0786ba5447f150a7ad53fbb055681078583fbc4851e6fafeef1cbe2b"
+    },
+    {
+      "id": "coffee",
+      "file": "assets/coffee.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG",
+      "credit": "Julius Schorzman",
+      "license": "CC BY-SA 2.0",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "094754889cb0e14e87bb011adfe7a327e8bb575a6a481c48b369dc22fbc51e50"
+    },
+    {
+      "id": "public-spiderfan",
+      "file": "assets/spiderfan.png",
+      "source": "https://github.com/Rekkkkk0x0/SPIDEY/blob/a7c8945cc1dd09f2c0b9642255b54a5f2ab845a9/image/SMBND_Sticker_1.png",
+      "credit": "User SPIDEY collection / original Spider-Man artwork owners",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Source image/thumbnail; unchanged pixels; CSS display crop",
+      "sha256": "280aeed4fde64c5469cb43e929df069984161fad7320034f1f8ecdf20a00f9a3"
+    },
+    {
+      "id": "builtin_crying_cat",
+      "file": "stickers/crying-cat.gif",
+      "description": "哭哭猫：委屈、难过，想要安慰",
+      "source": "https://tenor.com/view/cat-crying-cat-cat-meme-cat-crying-meme-crying-cat-meme-gif-1182720488497099882",
+      "credit": "Tenor source uploader / original artwork owners",
+      "license": "Source sharing page; no open-source license asserted",
+      "changes": "Unchanged pixels and animation; source metadata sidecar for GIF",
+      "sha256": "57223f0ec5cf895932fb2975c3c9e85f1e14396499e49a6cf19445daf779b552"
+    },
+    {
+      "id": "builtin_cat_ok",
+      "file": "stickers/cat-thumbs-up.gif",
+      "description": "猫咪竖拇指：赞同、收到、做得好",
+      "source": "https://tenor.com/view/cat-thumbs-up-meme-gif-14560623061926313292",
+      "credit": "Tenor source uploader / original artwork owners",
+      "license": "Source sharing page; no open-source license asserted",
+      "changes": "Unchanged pixels and animation; source metadata sidecar for GIF",
+      "sha256": "6c81cc0077465e289c0ad0d9e305946f95ef570cd629ffe8ab28b382fc09b00a"
+    },
+    {
+      "id": "builtin_mochi_hug",
+      "file": "stickers/mochi-hug.gif",
+      "description": "两只猫抱抱：安慰、撒娇、亲近",
+      "source": "https://tenor.com/view/love-couple-hug-love-hug-gif-8988120049760105210",
+      "credit": "Tenor source uploader / original artwork owners",
+      "license": "Source sharing page; no open-source license asserted",
+      "changes": "Unchanged pixels and animation; source metadata sidecar for GIF",
+      "sha256": "762db582fdbb322e67a979d1a8edda00476d7eeeedd7a4deca2c95e20c48d38a"
+    },
+    {
+      "id": "builtin_spidey_stare",
+      "file": "stickers/spidey-1.png",
+      "description": "像素蜘蛛侠瞪眼：好奇、惊讶",
+      "source": "https://github.com/Rekkkkk0x0/SPIDEY/blob/a7c8945cc1dd09f2c0b9642255b54a5f2ab845a9/image/SMBND_Sticker_1.png",
+      "credit": "User SPIDEY collection / original Spider-Man artwork owners",
+      "license": "Source sharing page; no open-source license asserted",
+      "changes": "Unchanged pixels and animation; source metadata sidecar for GIF",
+      "sha256": "19a96e4c3d4ef2ef40c2fcbc3456c00be540adcdc625fc0eb6333342d88bed1a"
+    },
+    {
+      "id": "builtin_spidey_hi",
+      "file": "stickers/spidey-2.png",
+      "description": "倒挂蜘蛛侠：俏皮地打招呼",
+      "source": "https://github.com/Rekkkkk0x0/SPIDEY/blob/a7c8945cc1dd09f2c0b9642255b54a5f2ab845a9/image/SMBND_Sticker_2.png",
+      "credit": "User SPIDEY collection / original Spider-Man artwork owners",
+      "license": "Source sharing page; no open-source license asserted",
+      "changes": "Unchanged pixels and animation; source metadata sidecar for GIF",
+      "sha256": "778e15639d3534a5c0a341db191fc233a16a4fd8b83a9cb572932f0526b906ee"
+    },
+    {
+      "id": "builtin_spidey_catch",
+      "file": "stickers/spidey-6.png",
+      "description": "蜘蛛侠接住人：我在、接住你",
+      "source": "https://github.com/Rekkkkk0x0/SPIDEY/blob/a7c8945cc1dd09f2c0b9642255b54a5f2ab845a9/image/SMBND_Sticker_6.png",
+      "credit": "User SPIDEY collection / original Spider-Man artwork owners",
+      "license": "Source sharing page; no open-source license asserted",
+      "changes": "Unchanged pixels and animation; source metadata sidecar for GIF",
+      "sha256": "83ea02e8fc2d919241e2e48ef2789f668d6043acc4fd92a334d8ccaa2f153024"
+    }
+  ]
+}
