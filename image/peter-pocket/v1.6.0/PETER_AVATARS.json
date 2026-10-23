@@ -1,0 +1,37 @@
+{
+  "format": "unchanged-original-jpeg",
+  "entries": [
+    {
+      "id": "peter-moustache",
+      "file": "peter-moustache.jpg",
+      "sha256": "9eb6fc44d81acf53e22bf783b4767deb85bf73fb1462ff6d61c6e1054021333f",
+      "source": "Author supplied attachment codex-clipboard-f3bd6014-fcb6-4bbc-8c25-6fc977dacdb2.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "changes": "Original bytes unchanged; circular CSS mask only"
+    },
+    {
+      "id": "peter-resting",
+      "file": "peter-resting.jpg",
+      "sha256": "b11ba6769994eba4d511bbef64e96bdac14b584d7336b819a449c10f718d7869",
+      "source": "Author supplied attachment codex-clipboard-7ff24750-d9f6-45c0-b889-94a33a1812cf.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "changes": "Original bytes unchanged; circular CSS mask only"
+    },
+    {
+      "id": "peter-dog",
+      "file": "peter-dog.jpg",
+      "sha256": "c5e84a1dbd4d606cd971a3a7bbc2902159e0df1234ae73a0f9520f25bf507301",
+      "source": "Author supplied attachment codex-clipboard-1ba93452-7a4a-43cb-a5fc-74cc19348f9b.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "changes": "Original bytes unchanged; circular CSS mask only"
+    },
+    {
+      "id": "peter-breadboard",
+      "file": "peter-breadboard.jpg",
+      "sha256": "815a0f2182c7d74a30bebf5d4415b0a67c21ee4c77780177cdb5bf9e84a5c8eb",
+      "source": "Author supplied attachment codex-clipboard-bd2bf595-8fb7-4132-8360-5184ce7abb9e.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "changes": "Original bytes unchanged; circular CSS mask only"
+    }
+  ]
+}
