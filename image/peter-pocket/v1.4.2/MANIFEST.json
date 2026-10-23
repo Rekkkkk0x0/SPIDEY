@@ -1,0 +1,162 @@
+{
+  "format": "unchanged-jpeg-in-svg-v1",
+  "note": "Original supplied JPEG bytes and dimensions are unchanged. SVG is a static image transport wrapper without scripts; public profiles are fictional roleplay.",
+  "entries": [
+    {
+      "file": "bucky.svg",
+      "original": "bucky-supplied.jpg",
+      "sha256": "65f6cc97df61dffb369af1158542303914b06caeef19619fbce25264e00e411f",
+      "originalSha256": "e38b0c383828bee801a8c9b841031a20effe5f7727b44da2790e15f3f8f2b52d"
+    },
+    {
+      "file": "bystander-cat-selfie.svg",
+      "original": "bystander-cat-selfie-supplied.jpg",
+      "sha256": "9edef81bec2af02f13b6b8a80041c42a2761dd68ceb3f77fcfbc475af35e9343",
+      "originalSha256": "eb0fcede947eef3fca2e75640374b03e05898befc889ac6a4114a52845cef211"
+    },
+    {
+      "file": "bystander-duck.svg",
+      "original": "bystander-duck-supplied.jpg",
+      "sha256": "033b7ca5ab6ec96e560a4c3db0fdf1bec6daa7382a72784be1f87f508022764c",
+      "originalSha256": "93d05058df39ff8fa6b96345e749dbd11b8dde7b36a4e0bb2da1bb46917f6e95"
+    },
+    {
+      "file": "bystander-gecko.svg",
+      "original": "bystander-gecko-supplied.jpg",
+      "sha256": "26985ccb84b5bb6bed26caf1b5f6b5fba723e49644a20c1692131575c38aee78",
+      "originalSha256": "9417e1e41b2a2a5730ee54a29b46a75cd84c89cb4fdd27dc2ea2e80f340a5dbf"
+    },
+    {
+      "file": "bystander-golden-cat.svg",
+      "original": "bystander-golden-cat-supplied.jpg",
+      "sha256": "78e9934f3da038342feee1ec46a4761b48838e6bc102c9b1529f391287d3b378",
+      "originalSha256": "f94805fdc6745bc625f73d6d4abaab9b75f58bb8fa4891d7f3b766b6873e0e1b"
+    },
+    {
+      "file": "bystander-graffiti.svg",
+      "original": "bystander-graffiti-supplied.jpg",
+      "sha256": "2c3fd2c348d7ca2db9328f170dfdafdd86e80b5baa81cec828c0f87b4f717b8c",
+      "originalSha256": "b4e5c2264a861d1362167a52b7114e4d93a87243dd1d607b1e1ebbd8f4b4f27b"
+    },
+    {
+      "file": "bystander-gull-gym.svg",
+      "original": "bystander-gull-gym-supplied.jpg",
+      "sha256": "4637e97b12d5f5715e047a3fcf2bc577759c535743e2df68a91c83a0061cf5f1",
+      "originalSha256": "1cb12c8f4ef0adac2236341ef7fcf32ac6aa3ad2875d79930ffad2b85cede8ba"
+    },
+    {
+      "file": "bystander-headphones.svg",
+      "original": "bystander-headphones-supplied.jpg",
+      "sha256": "5b6a11ddbd79a1729e972961c2b45d973c58c4d12cd8e3a099767664e4a52eb5",
+      "originalSha256": "5e44acc8b92bb7d828aa08c8dfdc78e59e048fd043e2163192eff3a360ddf206"
+    },
+    {
+      "file": "bystander-math-cat.svg",
+      "original": "bystander-math-cat-supplied.jpg",
+      "sha256": "670b7ab8086dede173bc80ec30dfa74b771db73b700d79fa519054da201d278a",
+      "originalSha256": "035aa0860dbcbaaaed1cf80218c1851db1c634d654ca7d1378a7d9e1a8caa895"
+    },
+    {
+      "file": "bystander-no-gulls.svg",
+      "original": "bystander-no-gulls-supplied.jpg",
+      "sha256": "cf2f6f2a453a43518bb30005e644a65ea07a0dd83dbfdbb40e47389ab873eb65",
+      "originalSha256": "d3fd041254d7b2e1a7f5b124eef478cf9fcada55e96e7cc097dc39dbe9d3a077"
+    },
+    {
+      "file": "bystander-pigeon.svg",
+      "original": "bystander-pigeon-supplied.jpg",
+      "sha256": "ff559ef66ee1b62484f14eaab82c1ea46d33cd8110d3952c98d43d6e30eb8e18",
+      "originalSha256": "8632f593df02086d1085067f6cd119a8babbbd80dd503452baaaaa7ea34c8d21"
+    },
+    {
+      "file": "bystander-skate.svg",
+      "original": "bystander-skate-supplied.jpg",
+      "sha256": "704475371eb160f8d45a0e8e4625853c8348b577680702e15bab5ccec1aaa450",
+      "originalSha256": "e4f237ddfe744af6a020145eea27ec6b50769fd73c6c6225389114bd0e53ca8d"
+    },
+    {
+      "file": "bystander-spa.svg",
+      "original": "bystander-spa-supplied.jpg",
+      "sha256": "35b4c1165c4c0ef2c542e87d2746878e2524bcb57b794bafaadf03e5a32fc968",
+      "originalSha256": "dcb6678a4dab158d4e654f1ffd4fe46cbb7f8bc48dc8d1516f0fa9d237f34e84"
+    },
+    {
+      "file": "bystander-student.svg",
+      "original": "bystander-student-supplied.jpg",
+      "sha256": "66232644d1024cbcb61d79ff637a7a9fa23716cf120493debd63b19ca8b4300c",
+      "originalSha256": "a896dac33749f819e0b91d2fa8e7111ff140c2aa26b28883b32b478d65dbcf03"
+    },
+    {
+      "file": "bystander-suit-cat.svg",
+      "original": "bystander-suit-cat-supplied.jpg",
+      "sha256": "68eb0b823cb693b71c3925d6dce6495f7aa55866474bd03fdbf4c146d08df105",
+      "originalSha256": "ef36ec9b2de0d25667122e2b00cf9da35c414a2a13ef519c5876e65ff7185a0a"
+    },
+    {
+      "file": "bystander-two-gulls.svg",
+      "original": "bystander-two-gulls-supplied.jpg",
+      "sha256": "3e063e72d65548ba489d162b04ac36a3d7890f5ab4006676166b86685e1f80ee",
+      "originalSha256": "a1f50f536385738de691c2e572dd40254ffeb0646de5f42457978e48535021bf"
+    },
+    {
+      "file": "deadpool.svg",
+      "original": "deadpool-supplied.jpg",
+      "sha256": "5683ac5bba4701ca6f5e25204d86f8e5788257b8971a2c06d674b2ce42a7755c",
+      "originalSha256": "b4e9f35f4d2a006c7c8c2a3e959186e9758787856741cdb37902d57b6f917ea0"
+    },
+    {
+      "file": "mj.svg",
+      "original": "mj-supplied.jpg",
+      "sha256": "197fd198866cbaa5958e35f62bb546ca386a532bc75724090adc5b041e0e0498",
+      "originalSha256": "faba463fcd1022c02420bdbc2fe6095067fbf322c9a1e0a2a2ea9b92454a4e5e"
+    },
+    {
+      "file": "natasha.svg",
+      "original": "natasha-supplied.jpg",
+      "sha256": "d6b29b29471e6b777577324b49e8398de6284a8b9f680a7c03eec70883226add",
+      "originalSha256": "c26d7d4898512928da0453d8e2e1cbd7a555d56ac0d06334dd5af402413a5794"
+    },
+    {
+      "file": "ned.svg",
+      "original": "ned-supplied.jpg",
+      "sha256": "53260539ccf6b720e7d20352e90f5b302a360683a476207bb3edbad0535ba76d",
+      "originalSha256": "519a75d564e5c1c36aeda64d5eae8e012845e5f72d07302ff110db685db372e4"
+    },
+    {
+      "file": "spider-man.svg",
+      "original": "spider-man-supplied.jpg",
+      "sha256": "405c4fc277d66c1a8172cf0b3fc85998fe20c0faded62b7551647771769dd550",
+      "originalSha256": "5336f6b750a4c71294d83f54b8651f447168ab56c8d3c276dd87d679a7d3f89a"
+    },
+    {
+      "file": "steve.svg",
+      "original": "steve-supplied.jpg",
+      "sha256": "29da5cb63c649f61865a7ee0081978c2bd3d26d647ad213c6f50875177100cbd",
+      "originalSha256": "39b50fd9570b9b870b4ce6e96e6375889f3cf1c3c12fc71806bfdd3cfa07ae78"
+    },
+    {
+      "file": "strange.svg",
+      "original": "strange-supplied.jpg",
+      "sha256": "9b515d0d2bc1f640d1fc3ec05500087cebd0e985e191bae668cfa1efb738d51b",
+      "originalSha256": "738a77263fefa753de2199686030bc1e53632fa01418c0bb2d6e5a137773adff"
+    },
+    {
+      "file": "thor.svg",
+      "original": "thor-supplied.jpg",
+      "sha256": "0a9ef6d3a3702888899c43dd7656e1963f8b9dfcc99d07ca240f522567a96cbb",
+      "originalSha256": "e9dc94ce30e07231820774192a739b39d74ccb8fb3f83311463bf21402b0e163"
+    },
+    {
+      "file": "vision.svg",
+      "original": "vision-supplied.jpg",
+      "sha256": "bf48382f44bdc45fae3e0a9c8b2679c0f6b8b7678d571ed4f1a6a8efccc5b2c4",
+      "originalSha256": "dfa42e0bad4e1da1d84db990d89fb39850e47046f7c3b4cbe794a82816b216dd"
+    },
+    {
+      "file": "wanda.svg",
+      "original": "wanda-supplied.jpg",
+      "sha256": "3f82adfe0c9f23ea64743ff1164425a12d24cc2da0246a3122dba54bba2593c6",
+      "originalSha256": "b70e5c4de8af0edbf3c0b1a89fd8915951dfa76c22d0064ed3cf79fd5c0a99c4"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "retrieved": "2026-10-23",
+  "sources": [
+    {
+      "id": "spider-man",
+      "file": "assets/spider-man-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-c0a45ebf-8f11-4597-b2a0-fc30b50398fb.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "5336f6b750a4c71294d83f54b8651f447168ab56c8d3c276dd87d679a7d3f89a"
+    },
+    {
+      "id": "peter",
+      "file": "assets/peter-selfie.jpg",
+      "source": "User-provided preferred Peter selfie, 2026-10-22",
+      "credit": "Supplied by project author; original photographer not identified",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "88fee9a70f37a4172fc8346c759e738d885bfd58b7ef27b1b87de51a46c685b8"
+    },
+    {
+      "id": "ned",
+      "file": "assets/ned-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-a179bf5f-7ca4-40bf-91da-ffaf81233a41.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "519a75d564e5c1c36aeda64d5eae8e012845e5f72d07302ff110db685db372e4"
+    },
+    {
+      "id": "mj",
+      "file": "assets/mj-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-779a44df-89d9-40d9-be69-61ababcee394.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "faba463fcd1022c02420bdbc2fe6095067fbf322c9a1e0a2a2ea9b92454a4e5e"
+    },
+    {
+      "id": "tony",
+      "file": "assets/tony-poolside.jpg",
+      "source": "https://www.pinterest.com/bitchenfries/robert-downey-jr/",
+      "credit": "Robert Downey Jr poolside photo; Pinterest repost",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "08baeaaa0a01dcae011cff86be6edfc1c9ea11efd1a9d4854de93e95ca23304b"
+    },
+    {
+      "id": "new-york-cover",
+      "file": "assets/new-york.jpg",
+      "source": "https://www.playstation.com/en-us/games/marvels-spider-man-remastered/",
+      "credit": "Original media owners",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "b6aae9ebcdd48b9b9c0512422cced147cd4835717222e09a658bdd8d149de824"
+    },
+    {
+      "id": "iron-man-cover",
+      "file": "assets/stark-workbench.jpg",
+      "source": "https://movies.disney.com/avengers-endgame",
+      "credit": "Original media owners",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "2a2a9bfb54ea7be8aef71f971e2be95c2133228a080f83470d02cfa6de9d4f6a"
+    },
+    {
+      "id": "cat",
+      "file": "assets/cat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cat03.jpg",
+      "credit": "Fir0002/Flagstaffotos",
+      "license": "CC BY-NC 3.0",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "3022fc52be10eee800c584ba063438727fd9c4a1ffcfceba3d883ce49dbce464"
+    },
+    {
+      "id": "dog",
+      "file": "assets/dog.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:YellowLabradorLooking_new.jpg",
+      "credit": "Elf, Djmirko, FT2",
+      "license": "CC BY-SA 3.0",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "83248f6c0786ba5447f150a7ad53fbb055681078583fbc4851e6fafeef1cbe2b"
+    },
+    {
+      "id": "coffee",
+      "file": "assets/coffee.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG",
+      "credit": "Julius Schorzman",
+      "license": "CC BY-SA 2.0",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "094754889cb0e14e87bb011adfe7a327e8bb575a6a481c48b369dc22fbc51e50"
+    },
+    {
+      "id": "public-spiderfan",
+      "file": "assets/spiderfan.png",
+      "source": "https://github.com/Rekkkkk0x0/SPIDEY/blob/a7c8945cc1dd09f2c0b9642255b54a5f2ab845a9/image/SMBND_Sticker_1.png",
+      "credit": "Original media owners",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "280aeed4fde64c5469cb43e929df069984161fad7320034f1f8ecdf20a00f9a3"
+    },
+    {
+      "id": "steve",
+      "file": "assets/steve-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-b7413232-8678-4104-940b-03a431e1f94e.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "39b50fd9570b9b870b4ce6e96e6375889f3cf1c3c12fc71806bfdd3cfa07ae78"
+    },
+    {
+      "id": "wanda",
+      "file": "assets/wanda-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-890007c7-59e5-4525-8c3d-ea8ac7a65a86.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "b70e5c4de8af0edbf3c0b1a89fd8915951dfa76c22d0064ed3cf79fd5c0a99c4"
+    },
+    {
+      "id": "vision",
+      "file": "assets/vision-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-904a28d4-981e-4f1b-81e6-989baa8ef9e6.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "dfa42e0bad4e1da1d84db990d89fb39850e47046f7c3b4cbe794a82816b216dd"
+    },
+    {
+      "id": "strange",
+      "file": "assets/strange-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-c1f84b9e-b5ad-44dd-a8e8-a0c563a8a588.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "738a77263fefa753de2199686030bc1e53632fa01418c0bb2d6e5a137773adff"
+    },
+    {
+      "id": "bucky",
+      "file": "assets/bucky-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-c6bbdf04-a521-4cfb-bf33-d30d11cc84ac.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "e38b0c383828bee801a8c9b841031a20effe5f7727b44da2790e15f3f8f2b52d"
+    },
+    {
+      "id": "thor",
+      "file": "assets/thor-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-9f8fa411-5b98-425c-82fa-e96150dd1d67.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "e9dc94ce30e07231820774192a739b39d74ccb8fb3f83311463bf21402b0e163"
+    },
+    {
+      "id": "deadpool",
+      "file": "assets/deadpool-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-d1b1c226-bc31-4d20-87f8-3ed66f0fa5fb.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "b4e9f35f4d2a006c7c8c2a3e959186e9758787856741cdb37902d57b6f917ea0"
+    },
+    {
+      "id": "bystander-gecko",
+      "file": "assets/bystander-gecko-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-acff1794-13c7-4095-8905-92be04837d38.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "9417e1e41b2a2a5730ee54a29b46a75cd84c89cb4fdd27dc2ea2e80f340a5dbf"
+    },
+    {
+      "id": "bystander-spa",
+      "file": "assets/bystander-spa-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-1a859ca4-9c5c-4fff-9b11-bbe46ba98398.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "dcb6678a4dab158d4e654f1ffd4fe46cbb7f8bc48dc8d1516f0fa9d237f34e84"
+    },
+    {
+      "id": "bystander-graffiti",
+      "file": "assets/bystander-graffiti-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-4bd16723-a8e6-4ceb-8034-d8c66c70bc49.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "b4e5c2264a861d1362167a52b7114e4d93a87243dd1d607b1e1ebbd8f4b4f27b"
+    },
+    {
+      "id": "bystander-student",
+      "file": "assets/bystander-student-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-8ddd906c-9b3b-4b51-af59-76612eefc1f2.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "a896dac33749f819e0b91d2fa8e7111ff140c2aa26b28883b32b478d65dbcf03"
+    },
+    {
+      "id": "bystander-math-cat",
+      "file": "assets/bystander-math-cat-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-ec9330cb-39d7-4965-9deb-e3e6395f1a58.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "035aa0860dbcbaaaed1cf80218c1851db1c634d654ca7d1378a7d9e1a8caa895"
+    },
+    {
+      "id": "bystander-cat-selfie",
+      "file": "assets/bystander-cat-selfie-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-766a63c9-fbe3-4d1a-ae11-8318c283695e.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "eb0fcede947eef3fca2e75640374b03e05898befc889ac6a4114a52845cef211"
+    },
+    {
+      "id": "bystander-skate",
+      "file": "assets/bystander-skate-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-0cb6dda0-5ae7-4bb3-ace3-1d6ce8f5f680.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "e4f237ddfe744af6a020145eea27ec6b50769fd73c6c6225389114bd0e53ca8d"
+    },
+    {
+      "id": "bystander-suit-cat",
+      "file": "assets/bystander-suit-cat-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-b656a8d2-7663-45ca-b8a4-fc92eef976cb.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "ef36ec9b2de0d25667122e2b00cf9da35c414a2a13ef519c5876e65ff7185a0a"
+    },
+    {
+      "id": "bystander-headphones",
+      "file": "assets/bystander-headphones-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-666d76c3-9e24-4496-b0a0-25c99387eab9.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "5e44acc8b92bb7d828aa08c8dfdc78e59e048fd043e2163192eff3a360ddf206"
+    },
+    {
+      "id": "bystander-no-gulls",
+      "file": "assets/bystander-no-gulls-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-d4956f98-f28d-447c-b1e9-9c89acd13021.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "d3fd041254d7b2e1a7f5b124eef478cf9fcada55e96e7cc097dc39dbe9d3a077"
+    },
+    {
+      "id": "bystander-two-gulls",
+      "file": "assets/bystander-two-gulls-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-0362e6ca-4351-4eaf-ba1a-d63884851485.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "a1f50f536385738de691c2e572dd40254ffeb0646de5f42457978e48535021bf"
+    },
+    {
+      "id": "bystander-gull-gym",
+      "file": "assets/bystander-gull-gym-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-14596d89-c0af-4f20-b346-410fe579f319.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "1cb12c8f4ef0adac2236341ef7fcf32ac6aa3ad2875d79930ffad2b85cede8ba"
+    },
+    {
+      "id": "bystander-pigeon",
+      "file": "assets/bystander-pigeon-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-4ab21a19-7568-4243-925d-7d6a78320593.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "8632f593df02086d1085067f6cd119a8babbbd80dd503452baaaaa7ea34c8d21"
+    },
+    {
+      "id": "natasha",
+      "file": "assets/natasha-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-b4877d14-59db-46bb-bccc-3446ce946bbd.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "c26d7d4898512928da0453d8e2e1cbd7a555d56ac0d06334dd5af402413a5794"
+    },
+    {
+      "id": "bystander-duck",
+      "file": "assets/bystander-duck-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-a5a5d154-da81-443e-ba1c-61a14489819f.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "93d05058df39ff8fa6b96345e749dbd11b8dde7b36a4e0bb2da1bb46917f6e95"
+    },
+    {
+      "id": "bystander-golden-cat",
+      "file": "assets/bystander-golden-cat-supplied.jpg",
+      "source": "Author supplied attachment codex-clipboard-a7bf32d6-02d4-4b8c-823d-dfeb974a9b4b.jpg, 2026-10-23",
+      "credit": "Supplied by project author; original media owners retain rights",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "f94805fdc6745bc625f73d6d4abaab9b75f58bb8fa4891d7f3b766b6873e0e1b"
+    },
+    {
+      "id": "builtin_crying_cat",
+      "file": "stickers/crying-cat.gif",
+      "source": "https://tenor.com/view/cat-crying-cat-cat-meme-cat-crying-meme-crying-cat-meme-gif-1182720488497099882",
+      "credit": "Original character/media owners; Tenor community upload or author-supplied repository",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "57223f0ec5cf895932fb2975c3c9e85f1e14396499e49a6cf19445daf779b552"
+    },
+    {
+      "id": "builtin_cat_ok",
+      "file": "stickers/cat-thumbs-up.gif",
+      "source": "https://tenor.com/view/cat-thumbs-up-meme-gif-14560623061926313292",
+      "credit": "Original character/media owners; Tenor community upload or author-supplied repository",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "6c81cc0077465e289c0ad0d9e305946f95ef570cd629ffe8ab28b382fc09b00a"
+    },
+    {
+      "id": "builtin_flug_happy",
+      "file": "stickers/flug-happy.gif",
+      "source": "https://tenor.com/view/beachsideufo-cute-alien-little-alien-flapping-autism-gif-4950413079627191926",
+      "credit": "beachsideufo",
+      "creatorUrl": "https://bsky.app/profile/lilalienz4ever.bsky.social",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "13bf57ccba0b884f64b1112ae03ee969326d895f5ff101a7b5a4ab97b98d9d68"
+    },
+    {
+      "id": "builtin_flug_online",
+      "file": "stickers/flug-online.gif",
+      "source": "https://tenor.com/view/flug-little-aliens-forever-surfing-internet-gif-9539777747149381108",
+      "credit": "beachsideufo",
+      "creatorUrl": "https://bsky.app/profile/lilalienz4ever.bsky.social",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "9392a984d16d8a256b063eca36e65e79db7229f6b3e341d27010b9e4d3d5de7f"
+    },
+    {
+      "id": "builtin_kermit_tea",
+      "file": "stickers/kermit-tea.gif",
+      "source": "https://tenor.com/view/kermit-kermit-the-frog-tea-tea-day-sipping-tea-gif-15288264",
+      "credit": "Original character/media owners; Tenor community upload or author-supplied repository",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "bec404289b493616c43b5fd3c497fadeee056874e7b764a66be9f47d0d8313ac"
+    },
+    {
+      "id": "builtin_elmo_fire",
+      "file": "stickers/elmo-fire.gif",
+      "source": "https://tenor.com/view/excited-fuego-gif-26833875",
+      "credit": "Original character/media owners; Tenor community upload or author-supplied repository",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "ccb864f51ab769bcd78562cec4b1080913f92ce74a0e0b6ad393e5ad53729177"
+    },
+    {
+      "id": "builtin_awkward_monkey",
+      "file": "stickers/awkward-monkey.gif",
+      "source": "https://tenor.com/view/pedro-monkey-puppet-meme-awkward-gif-15268759",
+      "credit": "Original character/media owners; Tenor community upload or author-supplied repository",
+      "license": "Original owners; no open-source license asserted",
+      "changes": "Original pixels unchanged; source metadata and CSS display crop only",
+      "sha256": "6c9d24bc33851624a1a1459f1d0a930dd9891bf962c89ebb48e7fc782af2ba55"
+    }
+  ]
+}
