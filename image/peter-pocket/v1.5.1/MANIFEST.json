@@ -1,0 +1,83 @@
+{
+  "format": "unchanged-jpeg-in-svg-v1",
+  "entries": [
+    {
+      "file": "bucky-cover.svg",
+      "original": "bucky-cover.jpg",
+      "sha256": "dc76e4b3065276b96c3b149a383980f964e3d2b1cbe2cd918201e16aeeb3f54e",
+      "originalSha256": "a1c40dde704631a0a02d95d0ec67f4d6a8fa9c09247fdebe52390c216ff80b3f"
+    },
+    {
+      "file": "deadpool-cover.svg",
+      "original": "deadpool-cover.jpg",
+      "sha256": "795ec7a653c64b2e1bff8c9a32ed1403ea90806cf7522c5e742d5a115f93a777",
+      "originalSha256": "05d3dac5a170df3aad1745a8b74a4881b94ce713191f5ce6fe8f0780ea42f1c3"
+    },
+    {
+      "file": "mj-cover.svg",
+      "original": "mj-cover.jpg",
+      "sha256": "b79159f48c9d41ebed87b077bd4a45087fe02d2ea402739a4d22fe03f89f6d8e",
+      "originalSha256": "6f0619361482603f7fcf68963b5f83f47aef40527d234fcf26d92525723909ef"
+    },
+    {
+      "file": "natasha-cover.svg",
+      "original": "natasha-cover.jpg",
+      "sha256": "36b36e3ff04f30aafd4c04c6007d62741347349071d21ec0544deb587de2cdb7",
+      "originalSha256": "8661263ea11ccb96b36b2b3e96aba263236049619704990eaf61a0cb8fe2895d"
+    },
+    {
+      "file": "ned-cover.svg",
+      "original": "ned-cover.jpg",
+      "sha256": "4aeb4c37a95e183a8bebce203a9ce02588a3a1c40ec3c22dcd7048875646ac1f",
+      "originalSha256": "452cd3241e26ec63b168e85112cf14723820951457d8358303dec4ea85ae0579"
+    },
+    {
+      "file": "peter-cover.svg",
+      "original": "peter-cover.jpg",
+      "sha256": "a1e784ac994880307de3bd84d2cfbfce692935fd93d22c91035669758bffc35c",
+      "originalSha256": "c8117e79493566c5acaf003aa97829832c58593403a4d6127265f6cc64a95efe"
+    },
+    {
+      "file": "spider-man-cover.svg",
+      "original": "spider-man-cover.jpg",
+      "sha256": "7b33bf5cea08a426e41e4772fb3c3d1f970c910eb3b7d5be848d66e93a3446e8",
+      "originalSha256": "8e1589bea0370303b9839bd11737fb35bb0a5fce735f2c774ff88de6f82cb99b"
+    },
+    {
+      "file": "steve-cover.svg",
+      "original": "steve-cover.jpg",
+      "sha256": "2e13ef2bb3ede6b6241dfd725a3195aafcce409b2c2bbf7ecd21094f657fc51b",
+      "originalSha256": "fa8863ff7d8cefecbe6b23771ac0dc6482a7b5c26b6f2bf5bd51191c87935184"
+    },
+    {
+      "file": "strange-cover.svg",
+      "original": "strange-cover.jpg",
+      "sha256": "3342d002c7ff5d2e1efe07f7a4c6ad0be057181d30de0055718df4ce436f4a9b",
+      "originalSha256": "ed4a405b1f479e17e15765bc24c771b14dba63cc6ba235fb2f381711357285ee"
+    },
+    {
+      "file": "thor-cover.svg",
+      "original": "thor-cover.jpg",
+      "sha256": "343424d3d5f23fdd08af97600f431a2a3dd4a0c0a90236593092d5a4b5fcb0c6",
+      "originalSha256": "8d39fecd5e09a347e59ddb164ac7da3f79eb88d79a5abd5c1176ac88ad9e0350"
+    },
+    {
+      "file": "tony-cover.svg",
+      "original": "tony-cover.jpg",
+      "sha256": "53c426deb64863a0433f7f8b162128181cb80bc7e3eda94ce1a54dbb6b600e07",
+      "originalSha256": "3e6ae89ecd44f252789e5f3cb3620010e393cac5bf29db6328201b4fbe4b04b0"
+    },
+    {
+      "file": "vision-cover.svg",
+      "original": "vision-cover.jpg",
+      "sha256": "b2a514f3b5c46085effd0f46414cda16586c00f498e75a5b847ec3c01d0d4600",
+      "originalSha256": "555b5830ba358ffd9bbbfae9ad0ce2c585df3b57e6ebd12e215c717d31bf5d1d"
+    },
+    {
+      "file": "wanda-cover.svg",
+      "original": "wanda-cover.jpg",
+      "sha256": "1e2ade5a961dffadc4cd9abab856c91539f80bcb26425a80df82cdd56a21d4d6",
+      "originalSha256": "0dfa20d4aba0db3a74c2a21f605ad60086aec1cde02372b030b1fcb9bc79517c"
+    }
+  ]
+}
