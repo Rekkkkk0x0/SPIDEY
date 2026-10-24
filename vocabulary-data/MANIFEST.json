@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "ab22ad36302cafc6349a050e2b60894855208055",
+  "packs": [
+    {
+      "id": "cet4",
+      "title": "大学英语四级",
+      "file": "cet4.vocab.json",
+      "words": 3846,
+      "bytes": 1576579,
+      "sha256": "bf29e47c4e67ea7ea6cd416f7f9cd4d2545a66cb7940e60f090b5a75a02e410f"
+    },
+    {
+      "id": "cet6",
+      "title": "大学英语六级",
+      "file": "cet6.vocab.json",
+      "words": 5406,
+      "bytes": 2145226,
+      "sha256": "9f3ceaa67e4ff7d67d3f0ee6c03897adcdbfd108be4c2b92a5ed68764b7263b1"
+    },
+    {
+      "id": "ielts",
+      "title": "雅思",
+      "file": "ielts.vocab.json",
+      "words": 5040,
+      "bytes": 2084018,
+      "sha256": "12bf4d8d5d6104f4597a9a07e7fcbfb953b65dbf47aae32b809a1be75949c970"
+    },
+    {
+      "id": "toefl",
+      "title": "托福",
+      "file": "toefl.vocab.json",
+      "words": 6974,
+      "bytes": 2590419,
+      "sha256": "1bf4cef432b330aac2a4a236eaec390b9317cc2f71bc09039d0e1d17e01e0c55"
+    }
+  ]
+}
