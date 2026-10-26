@@ -1,0 +1,41 @@
+{
+  "format": "pp-phone-cloud-v1",
+  "editions": {
+    "default": {
+      "edition": "default",
+      "version": "1.9.4",
+      "bridge": 1,
+      "sha256": "c258051e4865020e1b786c1bbeca36aa5c7bdffc31a1d5a49a14f9f7ae5e72df",
+      "compressedBytes": 2101523,
+      "urls": [
+        "https://fastly.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/default.c258051e4865020e.txt",
+        "https://gcore.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/default.c258051e4865020e.txt",
+        "https://testingcf.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/default.c258051e4865020e.txt"
+      ]
+    },
+    "peter-social": {
+      "edition": "peter-social",
+      "version": "1.9.4",
+      "bridge": 1,
+      "sha256": "1e63bf8c69d0b88231f8fb843bc4137a740e891f9cf5516f3434e80028be754f",
+      "compressedBytes": 2103388,
+      "urls": [
+        "https://fastly.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/peter-social.1e63bf8c69d0b882.txt",
+        "https://gcore.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/peter-social.1e63bf8c69d0b882.txt",
+        "https://testingcf.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/peter-social.1e63bf8c69d0b882.txt"
+      ]
+    },
+    "reunion": {
+      "edition": "reunion",
+      "version": "1.9.4",
+      "bridge": 1,
+      "sha256": "c77d6c423ded73a93c264f41c4b75a8d7792bf960df5f88988578b89e7feb525",
+      "compressedBytes": 2108982,
+      "urls": [
+        "https://fastly.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/reunion.c77d6c423ded73a9.txt",
+        "https://gcore.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/reunion.c77d6c423ded73a9.txt",
+        "https://testingcf.jsdelivr.net/gh/Rekkkkk0x0/SPIDEY@3e09f0bdde352d3600bbc0fff11f6952101ed926/phone-ui/v1.9.4/reunion.c77d6c423ded73a9.txt"
+      ]
+    }
+  }
+}
